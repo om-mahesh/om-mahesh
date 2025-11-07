@@ -97,16 +97,6 @@
 
 ---
 
-### 📊 By the numbers
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=om-mahesh&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-mahesh&layout=compact&langs_count=8&theme=github_dark&hide_border=true&hide=html,css" />
-</p>
-
----
-
 ### 🤝 Get in touch
 If you’re working on **embedded security**, **RISC‑V**, **FPGA/SoC**, or **IoT sensing**, I’d love to collaborate.
 <br/>
