@@ -6,10 +6,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Secure+Hardware+Systems;FPGA+%26+ASIC+Design;RISC-V+Processor+Architecture;Hardware+Security+Research;Neuromorphic+Computing" alt="Typing SVG" />
 
-[![LinkedIn](www.linkedin.com/in/om-maheshwari-8a4996299)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-maheshwari-8a4996299/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omdaga6@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/om-mahesh)
-
 </div>
 
 ---
